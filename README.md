@@ -14,3 +14,9 @@ pip install openpyxl
 pip install lxml
 
 
+this script will read a excel file called data datasmall.xls by dafault (this can be change in the setting.py) and will read in this column format (EAN	Description	Volume Brand) and will search the amazon 
+api in the folowing amazon sites amazon.com amazon.ca amazon.com.mx amazon.co.uk amazon.de amazon.fr amazon.it amazon.es and will extract the ASIN number and the diferent titles in all localea and will save the data in a another excel file
+
+to run type
+
+python main.py 
