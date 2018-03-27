@@ -1,6 +1,7 @@
 # amazon_ean_scrapper
 
-Before running run theses commands
+
+Before running, run theses commands in the terminal
 
 pip install python-amazon-product-api
 
